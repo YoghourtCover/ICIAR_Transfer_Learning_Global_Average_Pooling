@@ -10,7 +10,7 @@ The codes for the paper  "**Breast Cancer Diagnosis with Transfer Learningand Gl
 
 Sara Hosseinzadeh Kassani, Peyman Hosseinzadeh Kassani, Michal J Wesolowski, Kevin A Schneider, Ralph Deters
 
-<div style="text-align: justify">
+<p align="center"> 
 In this paper, we aim to develop a fully automatic,deep learning-based, method using descriptor features extractedby  Deep  Convolutional  Neural  Network  (DCNN)  models  andpooling operation for the classification of hematoxylin and eosinstain  (H&E)  histological  breast  cancer  images  provided  as  apart  of  the  International  Conference  on  Image  Analysis  andRecognition  (ICIAR)  2018  Grand  Challenge  on  BreAst  CancerHistology (BACH) Images. We also employed differentdata  augmentation  techniques to boost  the  performance  ofclassification. The effect of different stain normalization methods are also  investigated.  Experimental  results  demonstratethe proposed network architecture using pre-trained Xception model outperforms all other DCNN architectures with 92.50% in  terms  of  average classification  accuracy. 
 
-</div>
+</p>
